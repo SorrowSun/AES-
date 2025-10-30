@@ -64,6 +64,4 @@ AES加密解密工具是一个基于Qt开发的图形界面应用程序，提供
 - 在处理敏感数据时，请确保使用足够复杂的密钥
 - 双重和三重加密模式提供更高的安全性，但处理速度相对较慢
 
-## 许可证
-
-本项目采用MIT许可证。详情请参阅LICENSE文件。
+<img width="1252" height="914" alt="image" src="https://github.com/user-attachments/assets/b1373527-95d8-4473-9940-1135ae675940" />
